@@ -11,16 +11,10 @@ Manipulator
 | 1         | HS-311 Servo                                                                                                                        | 8.94 €          | 8.94 €  | HITEC        |                       |
 | 3         | ES08A Servo                                                                                                                         | 5.50 €          | 16.50 € | EMAX         |                       |
 | 0.02      | Screw 2.2 mm 6.5 mm, Philips DIN 7982                                                                                          | 13.08 €         | 0.26 €  | TOOLCRAFT    | 1068218               |
-| 0         | Screw DIN7981C2,2X6,5                                                                                                          | 1.88 €          | 0.00 €  | TOOLCRAFT    | 827354                |
 | 0.032     | Screw 2.2 mm 13 mm, Philips DIN 7982                                                                                           | 15.54 €         | 0.50 €  | TOOLCRAFT    | 1068220               |
-| 0         | Cylindric screw, M2, 25mm, zareza, DIN 84, galvanized steel, 1 piece                                                            | 0.12 €          | 0.00 €  | TOOLCRAFT    | 888677                |
 | 0.01      | PAN Screw TOOLCRAFT, M3, 25mm, DIN 7985                                                                                        | 2.37 €          | 0.02 €  | TOOLCRAFT    | 827136                |
 | 0.07      | PAN Screw TOOLCRAFT, M3, 20mm, DIN 7985                                                                                        | 2.95 €          | 0.21 €  | TOOLCRAFT    | 815411                |
-| 0         | PAN Screw TOOLCRAFT, cross, M2, 20mm, DIN 7985, galvanized steel, 100 piecs                                                    | 3.52 €          | 0.00 €  | TOOLCRAFT    | 830422                |
-| 0         | Hexagon nut TOOLCRAFT, M2, DIN 934, brass, 100 pieces                                                                | 1.96 €          | 0.00 €  | TOOLCRAFT    | 812819                |
 | 0.14      | M3 DIN 934,TOOLCRAFT 131823                                                                                                    | 0.82 €          | 0.11 €  | TOOLCRAFT    | 131823                |
-| 0         | Metal screws, spherical head 2.9 mm 16 mm cross 100 pieces TOOLCRAFT 147588 | 2.46 €          | 0.00 €  | TOOLCRAFT    | 147588                |
-| 0         | Washer, inner diameter: 2.2 mm DIN 433 steel 500 pieces TOOLCRAFT 106677                                                      | 2.78 €          | 0.00 €  | TOOLCRAFT    | 106677                |
 | 0.24      | 3.2 mm DIN 433, TOOLCRAFT 106698                                                                                               | 2.78 €          | 0.67 €  | TOOLCRAFT    | 106698                |
 | 1         | SCI 6 A R13-112LP-02 LED GREEN250V/AC 6 A                                                                                      | 3.36 €          | 3.36 €  | SCI          | 700320                |
 | 1         | 5.7 mm 2.1 mm BKL Electronic 072784                                                                                            | 1.96 €          | 1.96 €  | BKL          | 72784                 |
